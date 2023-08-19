@@ -1,15 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ksis123
+            Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ksis123
 ===============================================================================================================================
 
-Front-End Developer & UX / UI Designer Internship
+						Front-End Developer & UX / UI Designer Internship
 
 * ✉️  You can contact me at [khemkhemsiwa555@gmail.com](mailto:khemkhemsiwa555@gmail.com)
 
-### Skills
-
-
+### MYy Skills
+Back-End
 <p align="left">
-ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON
+[ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON](https://docs.microsoft.com/en-us/cpp/?view=msvc-170)
 </p>
 
 
