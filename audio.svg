@@ -70,7 +70,7 @@
 
       @media (prefers-color-scheme: light) {
         .artist{
-          color: #303332;
+          color: #455e56;
         }
 
         .song{
