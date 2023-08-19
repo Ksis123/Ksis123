@@ -3,23 +3,30 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Front-End Developer & UX / UI Designer Internship
 
-* ✉️  You can contact me at [khemkhemsiwa555@gmail.com](mailto:khemkhemsiwa555@gmail.com)
-
-### MYy Skills
-Back-End
+*   🌍  I'm based in I'm based in Nakhon Ratchasima, Thailand
+*   ✉️  You can contact me at [khemkhemsiwa555@gmail.com](mailto:khemkhemsiwa555@gmail.com)
+*   🧠  I'm learning MERN stack developer
+*   ⚡  I'm Singer but anyone don't know### Skills 
 <p align="left">
-[ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON](https://docs.microsoft.com/en-us/cpp/?view=msvc-170)
-</p>
-
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/Ksis123" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/siwakorn-kaewmala" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Ksis123"><img src="https://github-readme-stats.vercel.app/api?username=Ksis123&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Ksis123's GitHub stats" /></a>
-
-<a href="https://github.com/Ksis123" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ksis123&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON 
+                    </p>
+                    
+                  ### Socials
+                  
+                  
+                <p align="left">
+                      <a href="https://www.github.com/Ksis123" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+                    </picture>
+                    </a>
+                      <a href="https://www.linkedin.com/in/siwakorn-kaewmala" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="undefined" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+                    </picture>
+                    </a></p>### Badges<b>My GitHub Stats</b><a
+                      href="http://www.github.com/Ksis123"><img src="https://github-readme-stats.vercel.app/api?username=Ksis123&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Ksis123's GitHub stats" /></a><a href="https://github.com/Ksis123" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ksis123&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
