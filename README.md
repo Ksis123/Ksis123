@@ -7,7 +7,7 @@
 * 🧠  Now.. I'm learning MERN stack developer 
 * 🎵  I'm Singer but anyone don't know
 -------------------------------------------------------------------------------------------  
-
+<img src="https://komarev.com/ghpvc/?username=ksis123&style=flat-square&color=green" alt="ksis123"/>
 <b>My Skill Developer</b>
 <table align="center"><tr><td valign="top" width="33%">
 🟢Backend  
