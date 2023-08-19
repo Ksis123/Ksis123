@@ -1,4 +1,4 @@
-<h1 align="center">What'Up!👋🏼 I'm Khem "Ksis123" </h1>
+<h1 align="center">What'Up👋🏻 I'm Khem "Ksis123" </h1>
 <h3 align="center">Front-End Developer & UX / UI Designer Internship</h3>
 
 * 🌍  I'm based Nakhon Ratchasima, Thailand
