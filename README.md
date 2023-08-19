@@ -1,4 +1,4 @@
-<h1 align="center">What'Up Guy !👋 My name Ksis123 </h1>
+<h1 align="center">What'Up Guy !👋 I'm Khem also known as "Ksis123" </h1>
 <h3 align="center">Front-End Developer & UX / UI Designer Internship</h3>
 
 * 🌍  I'm based Nakhon Ratchasima, Thailand
@@ -16,7 +16,6 @@
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg"height="50" alt="Express" /></a>
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>                 
 <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg"  height="50" alt="Go" /></a>
-
 </div>
 </td>
 <td valign="top" width="33%">
