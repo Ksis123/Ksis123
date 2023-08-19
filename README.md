@@ -24,6 +24,6 @@ ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Ksis123"><img src="https://github-readme-stats.vercel.app/api?username=Ksis123&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=14b8a6&bg_color=27272a&hide_border=true&show_icons=true" alt="Ksis123's GitHub stats" /></a>
+<a href="http://www.github.com/Ksis123"><img src="https://github-readme-stats.vercel.app/api?username=Ksis123&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=f97316&bg_color=27272a&hide_border=true&show_icons=true" alt="Ksis123's GitHub stats" /></a>
 
-<a href="https://github.com/Ksis123" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ksis123&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=14b8a6&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Ksis123" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ksis123&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=f97316&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
