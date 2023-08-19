@@ -1,10 +1,13 @@
 <h1 align="center">What'Up👋🏻 I'm Khem "Ksis123" </h1>
 <h3 align="center">Front-End Developer & UX / UI Designer Internship</h3>
 
+ ![spotify-github-profile](/audio.svg)
 * 🌍  I'm based Nakhon Ratchasima, Thailand
 * ✉️  You can contact me at [khemkhemsiwa555@gmail.com](mailto:khemkhemsiwa555@gmail.com)
 * 🧠  Now.. I'm learning MERN stack developer 
-* 🎵  I'm Singer but anyone don't know 
+* 🎵  I'm Singer but anyone don't know
+  
+
 
 ## My Skill Developer  
 <table><tr><td valign="top" width="33%">
