@@ -6,18 +6,17 @@
 * ✉️  You can contact me at [khemkhemsiwa555@gmail.com](mailto:khemkhemsiwa555@gmail.com)
 * 🧠  Now.. I'm learning MERN stack developer 
 * 🎵  I'm Singer but anyone don't know
-  
+-------------------------------------------------------------------------------------------  
 
-
-## My Skill Developer  
+<b>My Skill Developer</b>
 <table align="center"><tr><td valign="top" width="33%">
 🟢Backend  
 <div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="40" /></a>  
-<a href="https://nodejs.org/en/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" height="40" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg"height="40" alt="Express" /></a>
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" /></a>                 
+<a href="https://www.javascript.com/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="40" /></a>  
+<a href="https://nodejs.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" height="40" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg"height="40" alt="Express" /></a>
+<a href="https://www.python.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" /></a>                 
 <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg"  height="40" alt="Go" /></a>
 </div>
 </td>
@@ -58,8 +57,10 @@
 </tr>
 </table>  
 
+-----------------------------------------------------------------------------------------------------------------------------------
+
 <b>My GitHub Stats</b>
-<p align="right">
+<p align="center">
 <a href="https://github.com/Ksis123" align="left"><img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ksis123&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=f97316&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 <a href="http://www.github.com/Ksis123" align="right"><img height="220em" src="https://github-readme-stats.vercel.app/api?username=Ksis123&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=f97316&bg_color=27272a&hide_border=true&show_icons=true" alt="Ksis123's GitHub stats" /></a>
 </p>
