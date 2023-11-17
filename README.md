@@ -4,7 +4,7 @@
  ![spotify-github-profile](/audio.svg)
 * 🌍  I'm based Nakhon Ratchasima, Thailand
 * ✉️  You can contact me at [khemkhemsiwa555@gmail.com](mailto:khemkhemsiwa555@gmail.com)
-* 🧠  Now.. I'm learning MERN stack developer 
+* 🧠  Now.. I'm learning PHP & SQLserver for development 
 * 🎵  I'm Singer but anyone don't know
 -------------------------------------------------------------------------------------------  
 <img src="https://komarev.com/ghpvc/?username=ksis123&style=flat-square&color=green" alt="ksis123"/>
