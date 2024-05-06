@@ -2,7 +2,7 @@
 <h3 align="center">Front-End Developer & UX / UI Designer</h3>
 
  ![spotify-github-profile](/audio.svg)
-* 🌍  I'm based Nakhon Ratchasima, Thailand
+* 🌍  I'm fresh graduate Computer Engineering
 * ✉️  You can contact me at [khemkhemsiwa555@gmail.com](mailto:khemkhemsiwa555@gmail.com)
 * 🧠  Now.. I'm learning PHP & SQLserver for development 
 * 🎵  I'm Singer but anyone don't know
