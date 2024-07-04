@@ -4,7 +4,7 @@
  ![spotify-github-profile](/audio.svg)
 * 🌍  I'm fresh graduate Computer Engineering
 * ✉️  You can contact me at [khemkhemsiwa555@gmail.com](mailto:khemkhemsiwa555@gmail.com)
-* 🧠  Now.. I'm learning PHP & SQLserver for development 
+* 🧠  Now.. I'm learning vue for development 
 * 🎵  I'm Singer but anyone don't know
 -------------------------------------------------------------------------------------------  
 <img src="https://komarev.com/ghpvc/?username=ksis123&style=flat-square&color=green" alt="ksis123"/>
